@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>yooshop</name>
+	<displayName><![CDATA[Yooshop export]]></displayName>
+	<version><![CDATA[1.0.1]]></version>
+	<description><![CDATA[Ce module permet de synchroniser les produits dans votre boutique prestashop vers fux market puis vers ebay ou vice versa]]></description>
+	<author><![CDATA[Solofo Andriamampihantona]]></author>
+	<tab><![CDATA[smart_shopping]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
